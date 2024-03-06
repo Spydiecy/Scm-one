@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 5 marks
 10 marks
+=======
+5 marks + 5 marks
+>>>>>>> 42ba9cee8586f3587deff740d70eace1c681fd6d
